@@ -4,7 +4,7 @@
 // let paragrafo = document.querySelector('p'); // seleciona o elemento p no HTML e altera o seu texto
 // paragrafo.innerHTML = 'Escolha um número entre 1 e 10'; // modifica o conteúdo do elemento p
 let listaDeNumerosSorteados = []; // lista
-let numeroLimite = 30;
+let numeroLimite = 20;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
